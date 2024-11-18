@@ -1,4 +1,4 @@
-# Jira Default Comment Group Chrome Extension
+# Jira Default Comment Group Chrome and Firefox Extension
 
 ## Why
 Jira has comment groups but no way to set a default one.
